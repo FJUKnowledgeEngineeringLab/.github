@@ -8,7 +8,19 @@ This lab is led by Dr. Jia-Lien Hsu, a Professor in the Department of Computer S
 
 ## 🔬 Research
 
-Our research projects are diverse and aim to tackle some of the most pressing challenges in the field of computer science and information engineering. For details on our current and past projects, please check our [Projects](#projects) section.
+Our research projects are at the forefront of computer science and information engineering, with a special emphasis on the following key areas:
+
+- **Knowledge Engineering**: This area focuses on the creation, organization, application, and dissemination of knowledge through the development of intelligent systems. We explore how to model knowledge domains using ontologies, how to use reasoning to infer new knowledge, and how to apply machine learning techniques to improve and automate decision-making processes. Our work in knowledge engineering aims to enhance the capability of machines to understand, process, and utilize vast amounts of information in a way that mimics human intelligence.
+
+- **Music Informatics / 音樂資訊學**: A subfield of **Music Information Retrieval**, music informatics is dedicated to the analysis, retrieval, and synthesis of music data. We investigate computational models for understanding music structure, genre, and emotion, developing algorithms that can analyze music content (such as melody, rhythm, and harmony) and context (such as metadata and user preferences) to power recommendation systems, automatic composition, and musicology studies.
+
+- **多媒體資料庫 / Multimedia Databases**: We explore efficient methods for storing, retrieving, and managing multimedia content, focusing on optimizing database architectures, search algorithms, and user interfaces to improve access to and interaction with multimedia data.
+
+- **資料探勘 / Data Mining**: Our work involves extracting meaningful patterns and insights from large datasets. We apply a variety of data mining techniques to discover underlying relationships, predict trends, and inform decision-making processes across different domains.
+
+- **醫學資訊 / Medical Informatics**: We apply engineering principles and information technology to healthcare to improve medical care, research, and education. Our projects include developing systems for electronic health records, telemedicine, and data analysis tools to support clinical and biomedical research.
+
+Through our dedication to these research areas, our lab aims to contribute significant advancements to the field of computer science and information engineering, addressing complex challenges and creating innovative solutions that have a real-world impact.
 
 ## 🤝 Getting Involved
 
