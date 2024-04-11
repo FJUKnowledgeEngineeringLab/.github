@@ -1,4 +1,4 @@
-# 🏛️ Fu Jen Catholic University KNOWLEDGE ENGINEERING & MUSIC INFORMATICS Lab
+# 🏛️ FJCU KNOWLEDGE ENGINEERING & MUSIC INFORMATICS Lab
 
 Welcome to the official GitHub page of the Computer Science and Information Engineering (CSIE) Lab at Fu Jen Catholic University. Our lab is dedicated to advancing research and education in computer science and engineering. We focus on a broad range of topics including but not limited to artificial intelligence, machine learning, software engineering, and data science.
 
